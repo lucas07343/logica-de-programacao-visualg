@@ -9,6 +9,6 @@ Inicio
       se (n1 % n2 = 0) ou (n2 % n1 = 0) entao
          escreval("Sao multiplos")
       senao
-         escreval("Nao sao multiplos ")
+         escreval("Nao sao multiplos")
       fimse
 Fimalgoritmo
